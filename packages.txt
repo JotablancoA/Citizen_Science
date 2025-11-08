@@ -1,0 +1,14 @@
+numpy
+pandas
+geopandas
+shapely
+pyproj
+folium
+plotly
+contextily
+branca
+nbformat
+notebook
+seaborn
+matplotlib
+statsmodels
