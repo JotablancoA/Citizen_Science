@@ -12,3 +12,4 @@ notebook
 seaborn
 matplotlib
 statsmodels
+adjustText

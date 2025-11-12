@@ -12,3 +12,4 @@ pip install -r .\packages.txt
 
 pip install datascience  # para cargar principales librerias de ciencia de datos
 ¡pip install plotly  # para mandar al terminal
+%pip install adjustText

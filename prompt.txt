@@ -1,0 +1,11 @@
+#  Analysis of Graphs and Maps Generated from Data
+Dado el contexto que tenemos en la caperta img, html, doc y en el tipo de datos en la carpeta data.
+Crea un markdown explicativo que hable sobre las gráficas y mapas generados sugiriendo sobre como se interpretan dentro del contexto del estudio
+Redáctalo en inglés
+
+
+# Generate prompt to suggest new proposals of Analyses in base tod data provided
+Based on the data provided in the 'data' folder, please suggest new proposals for analyses that allowed to understand better the information contained in the datasets.
+
+
+Teniendo en cuenta los mapas ya generados y nuestras variables necesito un top 5 de mapas que puedan aportar valor significativos a nuestro eda
