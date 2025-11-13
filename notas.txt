@@ -13,3 +13,10 @@ pip install -r .\packages.txt
 pip install datascience  # para cargar principales librerias de ciencia de datos
 ¡pip install plotly  # para mandar al terminal
 %pip install adjustText
+
+# Para cargar los archios en el repositorio
+git add .
+#Haz un commit de los archivos añadidos
+git commit -m "mensaje del commit"
+#Sube los cambios al repositorio remoto 
+git push origin main
