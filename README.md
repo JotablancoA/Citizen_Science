@@ -17,28 +17,28 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [Project Context](#-project-context)
-- [Data Sources](#-data-sources)
-- [Repository Structure](#-repository-structure)
-- [Quick Start](#-quick-start)
-- [Dashboard Sections](#-dashboard-sections)
-- [Technical Architecture](#-technical-architecture)
-- [Data Pipeline](#-data-pipeline)
-- [Visualizations](#-visualizations)
-- [Documentation](#-documentation)
-- [Research Background](#-research-background)
-- [Team and Acknowledgments](#-team-and-acknowledgments)
-- [Citation](#-citation)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Project Context](#project-context)
+- [Data Sources](#data-sources)
+- [Repository Structure](#repository-structure)
+- [Quick Start](#quick-start)
+- [Dashboard Sections](#dashboard-sections)
+- [Technical Architecture](#technical-architecture)
+- [Data Pipeline](#data-pipeline)
+- [Visualizations](#visualizations)
+- [Documentation](#documentation)
+- [Research Background](#research-background)
+- [Team and Acknowledgments](#team-and-acknowledgments)
+- [Citation](#citation)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-## 🌟 Overview
+## Overview
 
 This repository hosts a **comprehensive Streamlit-based intelligence dashboard** for exploring, analyzing, and visualizing wildlife monitoring data from a pioneering citizen science initiative in Córdoba, Spain. Over four months (January-April 2024), **800 students from 11 educational centers** deployed camera traps and generated **1,605 sequence records** documenting **15 wild mammal species**—data volume comparable to 15 years of GBIF records in the same area.
 
@@ -56,9 +56,9 @@ The dashboard integrates:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🎯 Core Capabilities
+### Core Capabilities
 
 | Feature | Description |
 |---------|-------------|
@@ -81,7 +81,7 @@ The dashboard integrates:
 
 ---
 
-## 🌍 Project Context
+## Project Context
 
 ### The Challenge
 
@@ -107,7 +107,7 @@ Traditional wildlife distribution atlases rely on sparse, expert-driven observat
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 ### Primary Datasets
 
@@ -145,7 +145,7 @@ V.vulpes     | UG27   | Global Biodiversity | 34
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Citizen_Science/
@@ -199,7 +199,7 @@ Citizen_Science/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -243,7 +243,7 @@ After launch, you should see:
 
 ---
 
-## 📱 Dashboard Sections
+## Dashboard Sections
 
 ### 1️⃣ **📚 Project Origin & Context**
 
@@ -379,7 +379,7 @@ Planned AI/ML capabilities:
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### Design Principles
 
@@ -445,7 +445,7 @@ def create_highlight_box(content, box_type='info'):
 
 ---
 
-## 🔄 Data Pipeline
+## Data Pipeline
 
 ### Workflow Overview
 
@@ -497,7 +497,7 @@ graph LR
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 ### Static Outputs (`img/` directory)
 
@@ -534,7 +534,7 @@ graph LR
 
 ---
 
-## 📖 Documentation
+## Documentation
 
 ### Available Guides
 
@@ -554,7 +554,7 @@ graph LR
 
 ---
 
-## 🔬 Research Background
+## Research Background
 
 ### Published Study
 
@@ -590,7 +590,7 @@ graph LR
 
 ---
 
-## 👥 Team and Acknowledgments
+## Team and Acknowledgments
 
 ### Core Research Team
 
@@ -616,7 +616,7 @@ graph LR
 
 ---
 
-## 📚 Citation
+## Citation
 
 ### For the Dashboard/Repository
 
@@ -649,7 +649,7 @@ graph LR
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community! Here's how you can help:
 
@@ -698,7 +698,7 @@ All contributions will be reviewed for:
 
 ---
 
-## 📄 License
+## License
 
 This project is developed for **academic and educational purposes** as part of the IncluScience-Me and ConCiencia-2 initiatives.
 
@@ -719,7 +719,7 @@ For commercial licensing or custom integrations, contact the project team.
 
 ---
 
-## 📞 Contact and Support
+## Contact and Support
 
 ### Get in Touch
 
@@ -736,7 +736,7 @@ For commercial licensing or custom integrations, contact the project team.
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 ### Version 1.0 (Current) ✅
 - ✅ Core dashboard with 5 sections
@@ -771,7 +771,7 @@ For commercial licensing or custom integrations, contact the project team.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Special thanks to:
 
@@ -785,7 +785,7 @@ Special thanks to:
 
 ---
 
-## 📊 Project Stats
+## Project Stats
 
 <div align="center">
 
