@@ -1,0 +1,27 @@
+#  Analysis of Graphs and Maps Generated from Data
+Dado el contexto que tenemos en la caperta img, html, doc y en el tipo de datos en la carpeta data.
+Crea un markdown explicativo que hable sobre las gráficas y mapas generados sugiriendo sobre como se interpretan dentro del contexto del estudio
+Redáctalo en inglés
+
+
+# Generate prompt to suggest new proposals of Analyses in base tod data provided
+Based on the data provided in the 'data' folder, please suggest new proposals for analyses that allowed to understand better the information contained in the datasets.
+
+
+Teniendo en cuenta los mapas ya generados y nuestras variables necesito un top 5 de mapas que puedan aportar valor significativos a nuestro eda
+
+# Pront para documetar 
+Actuando comom un experto  en anáñlisis de datos, necesito que estudies mi archivo de eda para crear una guia del mismos con clusiones que siga los patronees de story telling y que me pueda servir en un futuro para crear un panel de inteligencia. El archivo donde vas a escribir está en blanco y tu objetivo es en base a lo estudiado, crear secciones en el mismo, documentar, sacar conclusiones y trasmnitir la información descubierta de la mejor forma posible. 
+Se técnico, narrativo, creativo y piensa que este documento tienen que ser comprensible para gente sin conocimientos técnicos. 
+
+# Prompt para crear un panel de inteligencia en Streamlit
+Actúa como experto desarrollador en Streamlit y Python con el objetivo de crear un panel de inteligencia completo e interactivo.
+Vamos a trabajar con Python y sus librerías: Streamlit, pandas, numpy, Plotly Express. De referencia tendrás un archivo llamado eda.md, que es tanto un informe como una recomendación de lo que tiene que ser nuestro panel.
+Ejemplo: panel de Streamlit, con menú lateral con filtros interactivos; diferentes secciones según nuestra documentación; CSS adaptado y con buena UX/UI. Secciones definidas y estructurales (por ejemplo: “Origen” y “Explicar la data”); sección EDA (dentro de ella, todo tipo de análisis, siguiendo nuestro notebook de EDA); sección Conclusiones; sección ML para más adelante.
+ACCIONES:
+Analizar nuestro entorno, carpetas y archivos de Jupyter.
+Tener clara la importancia de nuestros archivos eda.ipynb y eda.md.
+Nuestra fuente de datos es el CSV que tienes en la carpeta data. Úsalo para el proyecto.
+Crear la aplicación y comentar cada parte para su posterior manipulación.
+Usar un formato limpio de composición de la app: funciones, clases, separación, componentes, etc.
+RESULTADOS: un panel de inteligencia completo con componentes, documentación y código limpio en nuestra carpeta app.
