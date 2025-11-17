@@ -25,3 +25,10 @@ Nuestra fuente de datos es el CSV que tienes en la carpeta data. Úsalo para el 
 Crear la aplicación y comentar cada parte para su posterior manipulación.
 Usar un formato limpio de composición de la app: funciones, clases, separación, componentes, etc.
 RESULTADOS: un panel de inteligencia completo con componentes, documentación y código limpio en nuestra carpeta app.
+
+
+
+Actuando como un experto project manager necesito que crees un readme.md excelente para muestra portada de github.
+Para ello eres libre de mnavegar entre nuestras carpetas que tienes en el contexto como son > docs, app, data, notebook,
+para poder entender mejor nuestro contexto de repositorio y crear la mejor estructura posible en nuestro readme.  
+Crea un readme técnico, narrativo y fincional de forma que cualquier persona que vea el proyecto sea consciente de todo lo que implica, desde datos, eda, desarrollo

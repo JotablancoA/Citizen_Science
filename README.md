@@ -807,14 +807,6 @@ Special thanks to:
 
 ---
 
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a ⭐ on GitHub!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/Citizen_Science&type=Date)](https://star-history.com/#your-username/Citizen_Science&Date)
-
----
-
 <div align="center">
 
 **Built with ❤️ for wildlife conservation and education**
